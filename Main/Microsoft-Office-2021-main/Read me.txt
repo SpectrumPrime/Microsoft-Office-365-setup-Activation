@@ -1,0 +1,2 @@
+--If you want to install the Full Office(with all apps- Publisher, Outlook, OneNote, OneDrive, Access, Teams, Lync, Word, Excel, Powerpoint) open **Install-x64.bat** or **Install-x32.bat** instead
+--If you only want to Install basic Office apps (Word, Excel, and Powerpoint) open **Install-x64-basic.bat** or **Intel-x32-basic.bat** instead.
